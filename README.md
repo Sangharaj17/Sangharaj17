@@ -21,7 +21,7 @@
 
 ```ts
 const sangharaj = {
-  role: "full-stack Developer",
+  role: "Full-stack Developer",
   stack: ["Next.js", "NestJS", "PostgreSQL", "Linux", "Cloud"],
   works: "frontend, backend, infra — end to end",
   mode: "design it, build it, deploy it, debug it live",
@@ -79,6 +79,16 @@ const sangharaj = {
 <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=MonkSangha&hide_border=true&background=0d1117&stroke=30363d&ring=7c3aed&fire=7c3aed&currStreakLabel=7c3aed&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" />
 
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MonkSangha&layout=compact&include_all_commits=true&count_private=true&hide_border=true&title_color=7c3aed&text_color=c9d1d9&bg_color=0d1117" />
+
+</div>
+
+<!-- ═══════════════════════ CONTRIBUTION GRAPH ═══════════════════════ -->
+
+## `contribution graph`
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=MonkSangha&bg_color=0d1117&color=c9d1d9&line=7c3aed&point=ffffff&area=true&area_color=7c3aed&hide_border=true&custom_title=Contribution%20Activity" />
 
 </div>
 
