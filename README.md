@@ -21,7 +21,7 @@
 
 ```ts
 const sangharaj = {
-  role: "Software Developer",
+  role: "full-stack Developer",
   stack: ["Next.js", "NestJS", "PostgreSQL", "Linux", "Cloud"],
   works: "frontend, backend, infra — end to end",
   mode: "design it, build it, deploy it, debug it live",
